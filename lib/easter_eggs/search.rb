@@ -26,6 +26,11 @@ module EasterEggs
 
           EasterEggs::Universe::MARIO => [
             /super mario/
+          ],
+
+          EasterEggs::Universe::BREAKING_BAD => [
+            /breaking bad/,
+            /walter white/
           ]
         }
       end
