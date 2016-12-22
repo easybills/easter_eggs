@@ -34,7 +34,7 @@ EasterEggs::Search.perform 'rogue one'
 EasterEggs::Search.perform 'super mario'
 {
   :reference => 'mario',
-    :message => 'Mama mia!'
+    :message => 'Mamma mia!'
 }
 ```
 
