@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    easter_eggs (0.1.0)
+    easter_eggs (0.2.0)
       enumerate_it
       i18n
 
