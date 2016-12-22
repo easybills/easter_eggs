@@ -25,18 +25,12 @@ Or install it yourself as:
 
 ```ruby
 EasterEggs::Search.perform 'rogue one'
-{
-  :reference => 'star_wars',
-    :message => 'May the force be with you!'
-}
+# => { reference: 'star_wars', message: 'May the force be with you!' }
 ```
 
 ```ruby
 EasterEggs::Search.perform 'super mario'
-{
-  :reference => 'mario',
-    :message => 'Mamma mia!'
-}
+# => { reference: 'mario', message: 'Mamma mia!' }
 ```
 
 ## Development
