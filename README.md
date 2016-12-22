@@ -2,6 +2,8 @@
 
 Search for references in several movies, TV series, games, etc.
 
+[![CircleCI](https://circleci.com/gh/easybills/easter_eggs.svg?style=svg)](https://circleci.com/gh/easybills/easter_eggs)
+
 ## Installation
 
 Add this line to your application's Gemfile:
