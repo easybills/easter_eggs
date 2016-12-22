@@ -1,0 +1,6 @@
+pt-BR:
+  enumerations:
+    easter_eggs/universe:
+      star_wars: 'Que a força esteja com você!'
+      mario: 'Mama mia!'
+      breaking_bad: 'Eu não estou em perigo. Eu sou o perigo!'
