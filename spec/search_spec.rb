@@ -35,7 +35,7 @@ RSpec.describe EasterEggs::Search do
 
     context do
       let(:query)     { 'Super Mario Bros 3' }
-      let(:reference) { EasterEggs::Universe::MARIO }
+      let(:reference) { EasterEggs::Universe::SUPER_MARIO }
       it_behaves_like 'an easter egg'
     end
 

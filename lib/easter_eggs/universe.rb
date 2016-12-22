@@ -4,7 +4,7 @@ class EasterEggs::Universe < EnumerateIt::Base
     :star_wars,
 
     # Games
-    :mario,
+    :super_mario,
 
     # TV Series
     :breaking_bad

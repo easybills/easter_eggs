@@ -24,7 +24,7 @@ module EasterEggs
             /rogue one/
           ],
 
-          EasterEggs::Universe::MARIO => [
+          EasterEggs::Universe::SUPER_MARIO => [
             /super mario/
           ],
 
