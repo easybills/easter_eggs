@@ -1,6 +1,7 @@
 # EasterEggs
 
-Search for references in several movies, TV series, games, etc.
+This gem is used by [Easy Bills](https://www.easybills.io) to make things funnier.
+It searches for references in several movies, TV series, games, etc.
 
 [![CircleCI](https://circleci.com/gh/easybills/easter_eggs.svg?style=svg)](https://circleci.com/gh/easybills/easter_eggs)
 
