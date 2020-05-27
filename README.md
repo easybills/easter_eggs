@@ -7,19 +7,11 @@ It searches for references in several movies, TV series, games, etc.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Run the following line to add the gem to your application:
 
-```ruby
-gem 'easter_eggs'
+```sh
+bundle add easter_eggs
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install easter_eggs
 
 ## Usage
 
